@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shiivam Singh Chauhan
+# 👋 Hi, I'm Shivam Singh Chauhan
 
 ## 🚀 AI/ML & Generative AI Developer | Data Science Enthusiast
 
