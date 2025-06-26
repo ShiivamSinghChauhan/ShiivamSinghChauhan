@@ -29,7 +29,7 @@ Welcome to my GitHub! I’m passionate about building intelligent, adaptive, and
 
 ### 📬 Connect with Me
 
-- [LinkedIn](#) <!-- link -->
+- [LinkedIn](https://www.linkedin.com/in/shivam-singh-chauhan-dev/) <!-- link -->
 - [Twitter/X](#) <!-- link -->
 - [Personal Website](#) <!-- link -->
 - [Blog](#) <!-- link -->
