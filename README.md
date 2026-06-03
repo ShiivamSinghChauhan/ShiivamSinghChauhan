@@ -1,47 +1,51 @@
-# 👋 Hi, I'm Shivam Singh Chauhan
+<div align="center">
 
-## 🚀 AI/ML & Generative AI Developer | Data Science Enthusiast
+# Shivam Singh Chauhan
+### AI Engineer
 
-Welcome to my GitHub! I’m passionate about building intelligent, adaptive, and real-world impactful AI solutions. My expertise spans Deep Learning, NLP, MLOps, and cutting-edge agentic AI architectures. I thrive on solving complex problems and turning innovative ideas into reality.
+*Building intelligent systems with LLMs, Deep Learning & Agentic AI*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-singh-chauhan-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShiivamSinghChauhan)
 
-### 🛠️ Tech & Tools
-
-- **Languages & Frameworks:** Python, PyTorch, TensorFlow, LangChain, LangGraph
-- **Domains:** AI, ML, DL, NLP, Generative AI, MLOps, Agentic AI
-- **Other:** Data Science, Prompt Engineering, API Integrations, RL
+</div>
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🤖 AI Agent for Customer Behavior Analysis
-- Built an advanced agent that delivers actionable insights into customer behavior—segmenting users, predicting trends, generating insights, and more.
-- Designed for enterprise-scale analytics with seamless integration and interpretability.
+**AI / ML**
 
-#### 📈 AI Agent for Stock Price Prediction & Autonomous Trading
-- Multi-agent system where agents collaborate in real-time to predict stock prices and execute trades autonomously.
-- Integrates live news, internet data, multiple pretrained models, and reinforcement learning.
-- Not just a prediction tool—this is an end-to-end, self-sufficient trading agent.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
----
+**LLMs & GenAI**
 
-### 📬 Connect with Me
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-- [LinkedIn](https://www.linkedin.com/in/shivam-singh-chauhan-dev/) <!-- link -->
-- [Twitter/X](#) <!-- link -->
-- [Personal Website](#) <!-- link -->
-- [Blog](#) <!-- link -->
+**Backend & Deployment**
 
----
-
-### 🧠 Fun Fact
-
-I’m driven by curiosity and believe in the power of AI to transform industries, empower businesses, and make life better. Let’s connect and build something awesome together!
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-> _"The best way to predict the future is to invent it."_ — Alan Kay
+## 📊 GitHub Stats
 
-```
+<div align="center">
+
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiivamSinghChauhan&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiivamSinghChauhan&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to invent it."* — Alan Kay
+
+</div>
