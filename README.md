@@ -47,8 +47,11 @@ AI / GenAI Engineer focused on building end-to-end intelligent systems — from 
 
 <div align="center">
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiivamSinghChauhan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiivamSinghChauhan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiivamSinghChauhan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiivamSinghChauhan&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShiivamSinghChauhan&theme=tokyonight&hide_border=true)
 
 </div>
 
