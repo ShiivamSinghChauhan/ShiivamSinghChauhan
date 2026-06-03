@@ -52,30 +52,7 @@ I am an AI & Generative AI Engineer dedicated to building end-to-end intelligent
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ShiivamSinghChauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="Shivam's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiivamSinghChauhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  
-  [![An Image of My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShiivamSinghChauhan&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
