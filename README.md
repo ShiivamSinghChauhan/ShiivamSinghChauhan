@@ -12,6 +12,12 @@
 
 ---
 
+## 👤 About
+
+AI / GenAI Engineer focused on building end-to-end intelligent systems — from fine-tuning LLMs to deploying agentic pipelines in production.
+
+---
+
 ## 🛠️ Tech Stack
 
 **AI / ML**
@@ -24,7 +30,11 @@
 **LLMs & GenAI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-gray?style=flat-square)
 
 **Backend & Deployment**
 
@@ -37,8 +47,8 @@
 
 <div align="center">
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiivamSinghChauhan&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiivamSinghChauhan&layout=compact&theme=tokyonight&hide_border=true)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiivamSinghChauhan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiivamSinghChauhan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 
