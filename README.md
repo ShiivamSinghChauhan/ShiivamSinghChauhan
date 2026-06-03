@@ -46,7 +46,7 @@ I am an AI & Generative AI Engineer dedicated to building end-to-end intelligent
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-### ⚙️ Backend, DevOps & Automation
+### ⚙️ Backend, DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
