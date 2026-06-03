@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+Multi-Agent+Systems;Fine-Tuning+Custom+SLMs;Optimizing+RAG+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+Multi-Agent+Systems;Fine-Tuning+Custom+LLMs;Optimizing+RAG+Pipelines" alt="Typing SVG" />
 </p>
 
 </div>
@@ -22,7 +22,11 @@
 
 ## 🚀 About Me
 
-I am an AI & Generative AI Engineer dedicated to building end-to-end intelligent systems. My expertise lies in bridging the gap between foundational models and production-ready Agentic architectures. I specialize in developing stateful multi-agent workflows, optimizing complex RAG pipelines, and building resilient data collection frameworks.
+I am a Computer Science & Engineering student specializing in Generative AI, Large Language Models, and Agentic workflows. My focus is on exploring foundational model architectures and implementing reliable, stateful systems for real-world applications.
+
+*   🔭 **Current Focus:** Deep diving into multi-agent systems using LangGraph and optimizing Retrieval-Augmented Generation (RAG) pipelines.
+*   🧠 **Technical Frameworks:** Hands-on learning with advanced Python, transformers, and deep learning implementations.
+*   💼 **Objective:** Actively preparing for entry-level AI Engineer and GenAI Developer roles within the tech industry.
 
 ---
 
@@ -46,12 +50,10 @@ I am an AI & Generative AI Engineer dedicated to building end-to-end intelligent
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-### ⚙️ Backend, DevOps & Automation
+### ⚙️ Backend & Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
 ---
