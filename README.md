@@ -6,7 +6,7 @@
 *Architecting Agentic Workflows, Fine-Tuning LLMs & Engineering Intelligent Systems*
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivam-singh-chauhan-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shiivamsinghchauhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/ShiivamSinghChauhan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -52,7 +52,12 @@ I am an AI & Generative AI Engineer dedicated to building end-to-end intelligent
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-
+### 🕸️ Data Harvesting & Web Scraping
+<p align="left">
+  <img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-00599C?style=for-the-badge&logo=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
 
 ---
 
