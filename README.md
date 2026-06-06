@@ -1,7 +1,7 @@
 <div align="center">
-
+  
 # ⚡ Shivam Singh Chauhan
-### **AI & Generative AI Engineer**
+### **AI Engineer | Gen AI Engineer**
 
 *Architecting Agentic Workflows, Fine-Tuning LLMs & Engineering Intelligent Systems*
 
