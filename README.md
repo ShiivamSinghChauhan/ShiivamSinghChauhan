@@ -1,19 +1,18 @@
 <div align="center">
   
 # ⚡ Shivam Singh Chauhan
-### **AI Engineer | Gen AI Engineer**
+### **AI Engineer | GenAI Engineer**
 
 *Architecting Agentic Workflows, Fine-Tuning LLMs & Engineering Intelligent Systems*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shiivamsinghchauhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ShiivamSinghChauhan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+Multi-Agent+Systems;Fine-Tuning+Custom+SLMs;Optimizing+RAG+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+Multi-Agent+Systems;Optimizing+RAG+Pipelines;Fine-Tuning+Open-Source+Models" alt="Typing SVG" />
 </p>
 
 </div>
@@ -22,7 +21,7 @@
 
 ## 🚀 About Me
 
-I am an AI & Generative AI Engineer dedicated to building end-to-end intelligent systems. My expertise lies in bridging the gap between foundational models and production-ready Agentic architectures. I specialize in developing stateful multi-agent workflows, optimizing complex RAG pipelines, and building resilient data collection frameworks.
+I am an AI Engineer dedicated to building end-to-end intelligent systems. My expertise lies in bridging the gap between foundational models and production-ready Agentic architectures. I specialize in developing stateful multi-agent workflows, optimizing complex RAG pipelines, and building resilient data collection frameworks.
 
 ---
 
